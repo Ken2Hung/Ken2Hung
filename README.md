@@ -8,9 +8,7 @@
   <img src="https://img.shields.io/badge/-angular-red?logo=angular"/>
   <img src="https://img.shields.io/badge/-html-black?logo=html5"/>
 </div>
-<div align="center">  
-  
+
   ![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ken2Hung&show_icons=true&theme=radical)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken2Hung" /> 
-</div>
 
