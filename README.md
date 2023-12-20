@@ -1,1 +1,16 @@
-![Metrics](https://metrics.lecoq.io/?template=classic&languages=1&stargazers=1&lines=1&topics=1&stars=1&habits=1&achievements=1&projects=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=true&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.days=14&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&topics=false&topics.mode=starred&topics.sort=stars&topics.limit=15&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&projects=false&projects.limit=4&projects.descriptions=true&config.timezone=Asia%2FTaipei)
+<div align="left">  
+  <img src="https://img.shields.io/badge/-oracle%20sql-black?logo=fireflyiii"/>
+  <img src="https://img.shields.io/badge/-java-blue?logo=chainguard"/>
+  <img src="https://img.shields.io/badge/-javascript-black?logo=javascript"/>
+  <img src="https://img.shields.io/badge/-typescript-gray?logo=typescript"/>
+  <img src="https://img.shields.io/badge/-typescript-black?logo=python"/>
+  <img src="https://img.shields.io/badge/-tomcat-blue?logo=apachetomcat"/>
+  <img src="https://img.shields.io/badge/-angular-red?logo=angular"/>
+  <img src="https://img.shields.io/badge/-html-black?logo=html5"/>
+</div>
+<div align="center">  
+  
+  ![Ken's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ken2Hung&show_icons=true&theme=radical)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ken2Hung" /> 
+</div>
+
