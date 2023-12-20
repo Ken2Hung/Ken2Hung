@@ -1,5 +1,4 @@
-![Ken](https://github.com/Ken2Hung/Ken2Hung/assets/47293989/c11ec5fa-4a51-4299-b111-9de8a2f71c6e){:height="10%"}
-
+![Ken](https://github.com/Ken2Hung/Ken2Hung/assets/47293989/c11ec5fa-4a51-4299-b111-9de8a2f71c6e)
 <div align="left">  
   <img src="https://img.shields.io/badge/-oracle%20sql-black?logo=fireflyiii"/>
   <img src="https://img.shields.io/badge/-java-blue?logo=chainguard"/>
